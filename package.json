@@ -1,6 +1,6 @@
 {
   "name": "jitsi-meet-electron",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "ZNYR Student App",
   "main": "./build/main.js",
   "productName": "ZNYR Student App",
