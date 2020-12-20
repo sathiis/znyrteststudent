@@ -1,6 +1,6 @@
 {
   "name": "jitsi-meet-electron",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "description": "ZNYR Student App",
   "main": "./build/main.js",
   "productName": "ZNYR Student App",
@@ -160,6 +160,7 @@
     "react-icons": "^3.10.0",
     "react-jutsu": "^2.1.5",
     "react-konva": "^16.13.0-3",
+    "react-obfuscate": "^3.6.8",
     "react-radio-buttons": "^1.2.2",
     "react-redux": "5.1.1",
     "react-router": "^5.2.0",
